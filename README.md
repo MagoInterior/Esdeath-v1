@@ -1,3 +1,8 @@
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/Esdeath-v1)](https://repl.it/github/MagoInterior/Esdeath-v1) 
+
+
 
 VIDEO QUE É NESCESSARIO PARA OS COMANDOS BÁSICOS DO TERMUX, MAS ELES AINDA NÃO SÃO DE SUMA IMPORTÂNCIA PARA O BOT, MAS SIM PARA A INICIALIZAÇÃO DELE, O TERMUX NÃO É UM BOT OU O BOT, SÓ DEIXAR ISSO CLARO...
 
